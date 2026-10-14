@@ -12,8 +12,4 @@
 		<hash type="sha-1">4e7da37621cb7e1da07bd83b559f5096ffae82ac</hash>
 		<url>https://catalog.s.download.windowsupdate.com/d/msdownload/update/software/crup/2026/10/windows10.0-kb5126664-x64_4e7da37621cb7e1da07bd83b559f5096ffae82ac.cab</url>
 	</file>
-	<file name="windows10.0-kb5129238-x64_0160d868c628b6f1ba2777a3d9fa8d1d7e72730b.msu">
-		<hash type="sha-1">0160d868c628b6f1ba2777a3d9fa8d1d7e72730b</hash>
-		<url>https://catalog.s.download.windowsupdate.com/c/msdownload/update/software/updt/2026/09/windows10.0-kb5129238-x64_0160d868c628b6f1ba2777a3d9fa8d1d7e72730b.msu</url>
-	</file>
 </metalink>
